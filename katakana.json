@@ -1,0 +1,495 @@
+{
+"dsts": [
+    {"n": "わ"
+   ,"s": "ワ"
+   ,"d": "Wa"
+   ,"src": "[https://en.wikipedia.org/wiki/Wa_(kana)"
+   ,"chr": [
+   ]}
+  ,{"n": "ら"
+   ,"s": "ラ"
+   ,"d": "Ra"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "raberu, label", "s": "ラベル", "c": ""}
+       ,{"n": "rabendaa, lavender", "s": "ラベンダー", "c": ""}
+   ]}
+  ,{"n": "や"
+   ,"s": "ヤ"
+   ,"d": "Ya"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "ya-do, yard", "s": "ヤード", "c": ""}
+       ,{"n": "yaku, yak", "s": "ヤク", "c": ""}
+   ]}
+   ,{"n": "ま"
+   ,"s": "マ"
+   ,"d": "Ma"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "maaku, mark", "s": "マ－ク", "c": ""}
+       ,{"n": "masutaa, master", "s": "マスタ－", "c": ""}
+   ]}
+  ,{"n": "は"
+   ,"s": "ハ"
+   ,"d": "Ha"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "haabaa, harbour", "s": "ハ－バ－", "c": ""}
+       ,{"n": "haato, heart", "s": "ハ－ト", "c": ""}
+   ]}
+  ,{"n": "な"
+   ,"s": "ナ"
+   ,"d": "Na"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "nachuraru, natural", "s": "ナチュラル", "c": ""}
+       ,{"n": "naihu, knife", "s": "ナイフ", "c": ""}
+   ]}
+  ,{"n": "た"
+   ,"s": "タ"
+   ,"d": "Ta"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "taimu, time", "s": "タイム", "c": ""}
+       ,{"n": "taipu, type", "s": "タイプ", "c": ""}
+   ]}
+  ,{"n": "さ"
+   ,"s": "サ"
+   ,"d": "Sa"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "saido, side", "s": "サイド", "c": ""}
+       ,{"n": "saikuru, cycle", "s": "サイクル", "c": ""}
+       ,{"n": "sakura, cherry blossom", "s": "サクラ", "c": ""}
+   ]}
+  ,{"n": "か"
+   ,"s": "カ"
+   ,"d": "Ka"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "ka-do, card", "s": "カード", "c": ""}
+       ,{"n": "kamera, camera", "s": "カメラ", "c": ""}
+   ]}
+   ,{"n": "あ"
+   ,"s": "ア"
+   ,"d": "A"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "aisu, ice", "s": "アイス", "c": ""}
+       ,{"n": "auto, out", "s": "アウト", "c": ""}
+   ]}
+  ,{"n": "り"
+   ,"s": "リ"
+   ,"d": "Ri"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "ribon, ribbon", "s": "リボン", "c": ""}
+       ,{"n": "rifo-mu, reform", "s": "リフォーム", "c": ""}
+   ]}
+  ,{"n": "み"
+   ,"s": "ミ"
+   ,"d": "Mi"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "mineraru, mineral", "s": "ミネラル", "c": ""}
+       ,{"n": "miruku, milk", "s": "ミルク", "c": ""}
+   ]}
+  ,{"n": "ひ"
+   ,"s": "ヒ"
+   ,"d": "Hi"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "hiru, hill", "s": "ヒル", "c": ""}
+       ,{"n": "hinto, hint", "s": "ヒント", "c": ""}
+   ]}
+  ,{"n": "に"
+   ,"s": "ニ"
+   ,"d": "Ni"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "nikkuru, nickel", "s": "ニッケル", "c": ""}
+       ,{"n": "nikkuneemu, nick name", "s": "ニックネーム", "c": ""}
+   ]}
+  ,{"n": "ち"
+   ,"s": "チ"
+   ,"d": "Chi"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "chiimu, team", "s": "チーム", "c": ""}
+       ,{"n": "chiizu, cheese", "s": "チーズ", "c": ""}
+   ]}
+  ,{"n": "し"
+   ,"s": "シ"
+   ,"d": "Shi"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "shiikuensu, sequence", "s": "シークエンス", "c": ""}
+       ,{"n": "shiin, scene", "s": "シーン", "c": ""}
+   ]}
+  ,{"n": "き"
+   ,"s": "キ"
+   ,"d": "Ki"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "ki-, key", "s": "キー", "c": ""}
+       ,{"n": "kicchin, kitchen", "s": "キッチン", "c": ""}
+   ]}
+   ,{"n": "い"
+   ,"s": "イ"
+   ,"d": "I"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "igirisu, english", "s": "イギリス", "c": ""}
+   ]}
+  ,{"n": "る"
+   ,"s": "ル"
+   ,"d": "Ru"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "ru-mu, room", "s": "ルーム", "c": ""}
+       ,{"n": "ru-pu, loop", "s": "ループ", "c": ""}
+   ]}
+ ,{"n": "ゆ"
+   ,"s": "ユ"
+   ,"d": "Yu"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "yuniba-saru, universal", "s": "ユニバーサル", "c": ""}
+       ,{"n": "yunifo-mu, uniform", "s": "ユニフォーム", "c": ""}
+   ]}
+  ,{"n": "む"
+   ,"s": "ム"
+   ,"d": "Mu"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "muudo, mood", "s": "ムード", "c": ""}
+       ,{"n": "muun, moon", "s": "ムーン", "c": ""}
+   ]}
+  ,{"n": "ふ"
+   ,"s": "フ"
+   ,"d": "Fu"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "huroo, flow", "s": "フロ－", "c": ""}
+       ,{"n": "huruuto, fruit", "s": "フルート", "c": ""}
+   ]}
+  ,{"n": "ぬ"
+   ,"s": "ヌ"
+   ,"d": "Nu"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "nuudoru, noodle", "s": "ヌードル", "c": ""}
+       ,{"n": "nuru, null", "s": "ヌル", "c": ""}
+   ]}
+   ,{"n": "つ"
+   ,"s": "ツ"
+   ,"d": "Tsu"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "tsuaa, tour", "s": "ツアー", "c": ""}
+       ,{"n": "tsuuru, tool", "s": "ツール", "c": ""}
+   ]}
+  ,{"n": "す"
+   ,"s": "ス"
+   ,"d": "Su"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "suchiimu, steam", "s": "スチーム", "c": ""}
+       ,{"n": "suingu, swing", "s": "スイング", "c": ""}
+   ]}
+  ,{"n": "く"
+   ,"s": "ク"
+   ,"d": "Ku"
+   ,"src": "https://en.wikipedia.org/wiki/Ku_(kana)"
+   ,"chr": [
+        {"n": "kuizu, quiz", "s": "クイズ", "c": ""}
+       ,{"n": "kuraudo, cloud", "s": "クラウド", "c": ""}
+   ]}
+  ,{"n": "う"
+   ,"s": "ウ"
+   ,"d": "U"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "uesuto, waist", "s": "ウエスト", "c": ""}
+       ,{"n": "ueika, waker", "s": "ウェイカ", "c": ""}
+   ]}
+  ,{"n": "れ"
+   ,"s": "レ"
+   ,"d": "Re"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "rea, rear", "s": "レア", "c": ""}
+       ,{"n": "redi-, lady", "s": "レヂィー", "c": ""}
+   ]}
+  ,{"n": "め"
+   ,"s": "メ"
+   ,"d": "Me"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "medaru, medal", "s": "メダル", "c": ""}
+       ,{"n": "melon, melon", "s": "メロン", "c": ""}
+   ]}
+ ,{"n": "へ"
+   ,"s": "ヘ"
+   ,"d": "He"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "heddo, head", "s": "ヘッド", "c": ""}
+       ,{"n": "hejji, hedge", "s": "ヘッジ", "c": ""}
+   ]}
+  ,{"n": "ね"
+   ,"s": "ネ"
+   ,"d": "Ne"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "nekutai, necktie", "s": "ネクタイ", "c": ""}
+       ,{"n": "nettowaaku, network", "s": "ネットワーク", "c": ""}
+   ]}
+  ,{"n": "て"
+   ,"s": "テ"
+   ,"d": "Te"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "teeburu, table", "s": "テーブル", "c": ""}
+       ,{"n": "teeru, tail", "s": "テール", "c": ""}
+   ]}
+  ,{"n": "せ"
+   ,"s": "セ"
+   ,"d": "Se"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "seeraa, sailor", "s": "セーラー", "c": ""}
+       ,{"n": "seeru, sale", "s": "セール", "c": ""}
+   ]}
+  ,{"n": "け"
+   ,"s": "ケ"
+   ,"d": "Ke"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "ke-ki, cake", "s": "ケーキ", "c": ""}
+       ,{"n": "ke-su, case", "s": "ケース", "c": ""}
+   ]}
+  ,{"n": "え"
+   ,"s": "エ"
+   ,"d": "E"
+   ,"src": "https://en.wikipedia.org/wiki/E_(kana)"
+   ,"chr": [
+        {"n": "ea, air", "s": "エア", "c": ""}
+       ,{"n": "enerugi-, energy", "s": "エネルギー", "c": ""}
+   ]}
+  ,{"n": "ろ"
+   ,"s": "ロ"
+   ,"d": "Ro"
+   ,"src": "https://en.wikipedia.org/wiki/Ro_(kana)"
+   ,"chr": [
+        {"n": "robii, lobby", "s": "ロビー", "c": ""}
+       ,{"n": "romanchikku, romantic", "s": "ロマンチック", "c": ""}
+   ]}
+  ,{"n": "よ"
+   ,"s": "ヨ"
+   ,"d": "Yo"
+   ,"src": "https://en.wikipedia.org/wiki/Yo_(kana)"
+   ,"chr": [
+        {"n": "yotto, yacht", "s": "ヨット", "c": ""}
+       ,{"n": "yo-rudan, yoghurt", "s": "ヨーグルト", "c": ""}
+   ]}
+   ,{"n": "も"
+   ,"s": "モ"
+   ,"d": "Mo"
+   ,"src": "https://en.wikipedia.org/wiki/Mo_(kana)"
+   ,"chr": [
+   ]}
+   ,{"n": "ほ"
+   ,"s": "ホ"
+   ,"d": "Ho"
+   ,"src": "https://en.wikipedia.org/wiki/Ho_(kana)"
+   ,"chr": [
+        {"n": "hooru, hall", "s": "ホール", "c": ""}
+       ,{"n": "hoiiru, wheel", "s": "ホイール", "c": ""}
+   ]}
+  ,{"n": "の"
+   ,"s": "ノ"
+   ,"d": "No"
+   ,"src": "https://en.wikipedia.org/wiki/No_(kana)"
+   ,"chr": [
+        {"n": "nooto, note", "s": "ノート", "c": ""}
+       ,{"n": "nooberu, nobel", "s": "ノーベル", "c": ""}
+   ]}
+  ,{"n": "と"
+   ,"s": "ト"
+   ,"d": "To"
+   ,"src": "https://en.wikipedia.org/wiki/To_(kana)"
+   ,"chr": [
+        {"n": "tonneru, tunnel", "s": "トンネル", "c": ""}
+       ,{"n": "toomato, tomato", "s": "トーマス", "c": ""}
+   ]}
+  ,{"n": "そ"
+   ,"s": "ソ"
+   ,"d": "So"
+   ,"src": "https://en.wikipedia.org/wiki/So_(kana)"
+   ,"chr": [
+        {"n": "sooda, soda", "s": "ソーダ", "c": ""}
+       ,{"n": "souseeji, sausage", "s": "ソーセージ", "c": ""}
+   ]}
+  ,{"n": "こ"
+   ,"s": "コ"
+   ,"d": "Ko"
+   ,"src": "https://en.wikipedia.org/wiki/Ko_(kana)"
+   ,"chr": [
+        {"n": "konpyuutaa, computer", "s": "コンピューター", "c": ""}
+       ,{"n": "koohii, coffee", "s": "コーヒー", "c": ""}
+   ]}
+  ,{"n": "お"
+   ,"s": "オ"
+   ,"d": "O"
+   ,"src": "https://en.wikipedia.org/wiki/O_(kana)"
+   ,"chr": [
+        {"n": "ofisu, office", "s": "オフィス", "c": ""}
+       ,{"n": "oiru, oil", "s": "オイル", "c": ""}
+   ]}
+   ,{"n": "ん"
+   ,"s": "ン "
+   ,"d": "N"
+   ,"src": "https://en.wikipedia.org/wiki/N_(kana)"
+   ,"chr": [
+   ]}
+
+  ,{"n": "Pe"
+   ,"s": "ペ"
+   ,"d": "Pe"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "pea, pair", "s": "ペア", "c": ""}
+       ,{"n": "pe-ji, page", "s": "ページ", "c": ""}
+   ]}
+   ,{"n": "Bo"
+   ,"s": "ボ"
+   ,"d": "Bo"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "bo-ru, ball", "s": "ボール", "c": ""}
+       ,{"n": "bo-to, boat", "s": "ボート", "c": ""}
+   ]}
+   ,{"n": "Be"
+   ,"s": "ベ"
+   ,"d": "Be"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "beddo, bed", "s": "ベッド", "c": ""}
+       ,{"n": "beruto, belt", "s": "ベルト", "c": ""}
+   ]}
+   ,{"n": "Bu"
+   ,"s": "ブ"
+   ,"d": "Bu"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "bukku, book", "s": "ブック", "c": ""}
+       ,{"n": "buru-, blue", "s": "ブルー", "c": ""}
+   ]}
+   ,{"n": "Bi"
+   ,"s": "ビ"
+   ,"d": "Bi"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "biichi, beach", "s": "ビーチ", "c": ""}
+       ,{"n": "bijon, vision", "s": "ビジョン", "c": ""}
+   ]}
+   ,{"n": "Ba"
+   ,"s": "バ"
+   ,"d": "Ba"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "ba-do, bird", "s": "バード", "c": ""}
+       ,{"n": "baburu, bubble", "s": "バブル", "c": ""}
+   ]}
+  ,{"n": "Do"
+   ,"s": "ド"
+   ,"d": "Do"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "doa, door", "s": "ドア", "c": ""}
+       ,{"n": "doitsu, deutsch", "s": "ドイツ", "c": ""}
+   ]}
+  ,{"n": "De"
+   ,"s": "デ"
+   ,"d": "De"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "de-ta, data", "s": "データ", "c": ""}
+       ,{"n": "denma-ku-, denmark", "s": "デンマーク", "c": ""}
+   ]}
+  ,{"n": "Da"
+   ,"s": "ダ"
+   ,"d": "Da"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "daiba-, diver ", "s": "ダイバー", "c": ""}
+       ,{"n": "daiyamondo, diamond ", "s": "ダイヤモンド", "c": ""}
+   ]}
+  ,{"n": "Zo"
+   ,"s": "ゾ"
+   ,"d": "Zo"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "zonbi, zombie", "s": "ゾンビ", "c": ""}
+       ,{"n": "zodiakku, zodiac", "s": "ゾディアっク", "c": ""}
+   ]}
+  ,{"n": "Ze"
+   ,"s": "ゼ"
+   ,"d": "Ze"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "zemina-ru, seminar ", "s": "ゼミナール", "c": ""}
+       ,{"n": "zebura, zebra ", "s": "ゼブラ", "c": ""}
+   ]}
+  ,{"n": "Zu"
+   ,"s": "ズ"
+   ,"d": "Zu"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "zukkini, zucchini", "s": "ズッキニ", "c": ""}
+       ,{"n": "zu-oroji-, zoology ", "s": "ズーオロジー", "c": ""}
+   ]}
+  ,{"n": "Ji"
+   ,"s": "ジ"
+   ,"d": "Ji"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "ji-nzu, Jeans ", "s": "ジーンズ", "c": ""}
+       ,{"n": "jimu, Gym ", "s": "ジム", "c": ""}
+   ]}
+  ,{"n": "Za"
+   ,"s": "ザ"
+   ,"d": "Za"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "zanbia, zambia", "s": "ザンビア", "c": ""}
+       ,{"n": "za-za-, za-za- (onomatopoeia, the sound of heavy rain)", "s": "ザーザー", "c": ""}
+   ]}
+  ,{"n": "Go"
+   ,"s": "ゴ"
+   ,"d": "Go"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "go-ruden, golden", "s": "ゴールデン", "c": ""}
+       ,{"n": "gorira, gorilla ", "s": "ゴリラ", "c": ""}
+   ]}
+ ,{"n": "Gi"
+   ,"s": "キ"
+   ,"d": "Gi"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "gita-, guitar", "s": "キター", "c": ""}
+       ,{"n": "giya, gear", "s": "ギヤ", "c": ""}
+   ]}
+ ,{"n": "Ga"
+   ,"s": "ガ"
+   ,"d": "Ga"
+   ,"src": "http://www.japanese-language.info/katakana"
+   ,"chr": [
+        {"n": "gaido, guide", "s": "ガイド", "c": ""}
+       ,{"n": "garasu, glass", "s": "ガラス", "c": ""}
+   ]}
+
+]}

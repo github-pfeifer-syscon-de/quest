@@ -1,0 +1,96 @@
+{
+  "c": ["n is primary name, s is secondary, c comment "
+       ,"The moons are qualfied by their appearent magnitude down to ~8 "
+       ,"with a not too many and not too few components "]
+
+,"dsts": [
+  {"n": "Mercury"
+   ,"s": "☿"
+   ,"d": "Mer"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"src": ""
+   ,"chr": [
+    ]}
+  , {"n": "Venus"
+   ,"s": "♀"
+   ,"d": "Ven"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"chr": [
+    ]}
+  , {"n": "Earth"
+   ,"s": "♁"
+   ,"d": "Ear"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"chr": [
+        {"n": "Moon", "c": ""}
+    ]}
+  , {"n": "Mars"
+   ,"s": "♂"
+   ,"d": "Mar"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"chr": [
+        {"n": "Phobos", "c": "m 11.3"}
+       ,{"n": "Deimos", "c": "m 12.4"}
+    ]}
+  , {"n": "Ateroid belt"
+   ,"s": ""
+   ,"d": "Ast"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"chr": [
+        {"n": "Ceres", "c": "(1) m 6.64 to 9.34"}
+       ,{"n": "Pallas", "c": "(2) m 6.49 to 10.65"}
+       ,{"n": "Juno", "c": "(3) m 7.4 to 11.55"}
+       ,{"n": "Vesta", "c": "(4) m 5.1 to 8.48"}
+       ,{"n": "Hebe", "c": "(6) m 7.5 to 11.50"}
+       ,{"n": "Iris", "c": "(7) m 6.7 to 11.4"}
+       ,{"n": "Eros", "c": "(433) m 7.0–15"}
+    ]}
+  , {"n": "Jupiter"
+   ,"s": "♃"
+   ,"d": "Jup"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"chr": [
+        {"n": "Io", "c": "m -1.7"}
+       ,{"n": "Europa", "c": "m -1.4"}
+       ,{"n": "Ganymede", "c": "m -2.1"}
+       ,{"n": "Callisto", "c": "m -1.2"}
+       ,{"n": "Amalthea", "c": "m 7.1"}
+    ]}
+  , {"n": "Saturn"
+   ,"s": "♄"
+   ,"d": "Sat"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"chr": [
+        {"n": "Titan", "c": "m -1.3"}
+       ,{"n": "Rhea", "c": "m -0.2"}
+       ,{"n": "Iapetus", "c": "m 1.7"}
+       ,{"n": "Tethys", "c": "m 0.3"}
+       ,{"n": "Dione", "c": "m 0.4"}
+       ,{"n": "Mimas", "c": "m 2.7"}
+       ,{"n": "Enceladus", "c": "m 1.8"}
+       ,{"n": "Hyperion", "c": "m 4.8"}
+       ,{"n": "Janus", "c": "m 4.8"}
+    ]}
+  , {"n": "Uraunus"
+   ,"s": "⛢"
+   ,"d": "Ura"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"chr": [
+        {"n": "Miranda", "c": "m 3.5"}
+       ,{"n": "Ariel", "c": "m 1"}
+       ,{"n": "Umbriel", "c": "m 1.7"}
+       ,{"n": "Titania", "c": "m 0.8"}
+       ,{"n": "Oberon", "c": "m 1"}
+    ]}
+  , {"n": "Neptun"
+   ,"s": "♆"
+   ,"d": "Nep"
+   ,"src": "https://en.wikipedia.org/wiki/Planet"
+   ,"chr": [
+        {"n": "Triton", "c": "m -1.2"}
+       ,{"n": "Proteus", "c": "m 5"}
+       ,{"n": "Larissa", "c": "m 6.8"}
+       ,{"n": "Nereid", "c": "m 4.4"}
+    ]}
+
+]}

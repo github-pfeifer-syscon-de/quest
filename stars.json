@@ -1,0 +1,102 @@
+{
+  "c":  "n is primary name, s is secondary, c comment ",
+
+
+"dsts": [
+  {"n": "Draco"
+   ,"s": ""
+   ,"d": "Dra"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/, https://en.wikipedia.org/wiki/List_of_stars_in_Draco"
+   ,"chr": [
+        {"n": "Eltanin", "s": "Rastaban", "c": "γ Dra"}
+       ,{"n": "Aldibain", "s": "Athebyne", "c": "η Dra"}
+    ]}
+  , {"n": "Cepheus"
+   ,"s": ""
+   ,"d": "Cep"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Alderamin", "c": "α Cep"}
+       ,{"n": "Arrai", "c": "γ Cep"}
+       ,{"n": "Alfirk", "c": "β Cep"}
+
+
+    ]}
+  , {"n": "Centaurus"
+   ,"s": ""
+   ,"d": "Cen"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Rigil Kentaurus", "c": "α Cen a"}
+       ,{"n": "Hadar", "s": "Agena", "c": "β Cen"}
+       ,{"n": "Toliman", "c": "α Cen B"}
+
+    ]}
+  , {"n": "Virgo"
+   ,"s": ""
+   ,"d": "Vir"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Spica", "s": "Spica Virginis, Azimech"}
+       ,{"n": "Porrima", "s": "Antevorta", "c": "γ Vir A"}
+    ]}
+  , {"n": "Hydra"
+   ,"s": ""
+   ,"d": "Hyd"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Alphard", "s": "Kalbelaphard"}
+       ,{"n": "Cauda Hydrae", "s": "Dhanab al Shudja", "c": "γ Hya"}
+    ]}
+  , {"n": "Cassiopeia"
+   ,"s": ""
+   ,"d": "Cas"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Schedar", "c": "α Cas"}
+       ,{"n": "Caph", "c": "β Cas"}
+       ,{"n": "Tsih", "s": "Navi", "c": "γ Cas"}
+       ,{"n": "Ruchbah", "s": "Algol", "c": "δ Cas"}
+
+    ]}
+  , {"n": "Pegasus"
+   ,"s": ""
+   ,"d": "Peg"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Enif, Enf, Enir", "s": "Al Anf", "c": "ε Peg"}
+        ,{"n": "Scheat, Sheat", "s": "Seat Alpheras", "c": "β Peg"}
+        ,{"n": "Markab", "s": "Menkib al Faras", "c": "α Peg"}
+    ]}
+  , {"n": "Hercules"
+   ,"s": ""
+   ,"d": "Her"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Kornephoros", "s": "Korneforos", "c": "β Her"}
+        ,{"n": "Rutilicus", "c": "ζ Her"}
+        ,{"n": "Sarin", "s": "Menkib al Jathi al Aisr", "c": "δ Her"}
+
+    ]}
+  , {"n": "Ursa Major"
+   ,"s": ""
+   ,"d": "UMa"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Alioth", "c": "ε UMa"}
+        ,{"n": "Dubhe", "s": "Dubh", "c": "α UMa"}
+        ,{"n": "Benetnasch", "s": "Alkaid", "c": "η UMa"}
+        ,{"n": "Mizar", "s": "Mizar A", "c": "ζ UMa"}
+
+    ]}
+  , {"n": "Ursa Minor"
+   ,"s": ""
+   ,"d": "UrM"
+   ,"src": "https://rankhacks.com/2020/08/29/top-10-most-famous-constellations-in-the-sky/"
+   ,"chr": [
+        {"n": "Polaris", "s": "Alruccabah", "c": "α"}
+        ,{"n": "Kochab", "s": "Kokab", "c": "β UMi"}
+        ,{"n": "Pherkad", "s": "Pherkad Major", "c": "γ UMi"}
+
+    ]}
+]}

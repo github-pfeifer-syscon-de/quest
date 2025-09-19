@@ -1,0 +1,151 @@
+{
+  "c":  "n is primary name, s is secondary, c comment ",
+
+
+"dsts": [
+  {"n": "Inuyasha"
+   ,"s": "犬夜叉"
+   ,"d": "Inu"
+   ,"src": "https://en.wikipedia.org/wiki/List_of_Inuyasha_characters"
+   ,"color": "#f08080"
+   ,"chr": [
+        {"n": "Kagome", "s": "日暮 かごめ", "c": "Travels thru time"}
+       ,{"n": "Inuyasha", "s": "犬夜叉", "c": "Half daemon"}
+       ,{"n": "Kikyo", "s": "桔梗", "c": "Priestess"}
+       ,{"n": "Sesshomaru", "s": "殺生丸", "c": "Inuyashas half brother, full daemon"}
+       ,{"n": "Shippo", "s": "七宝", "c": "Fox deamon"}
+       ,{"n": "Miroku", "s": "弥勒", "c": "Monk"}
+       ,{"n": "Sango", "s": "珊瑚", "c": "Daemon hunter"}
+       ,{"n": "Kirara", "s": "雲母", "c": "Sangos cat companion"}
+       ,{"n": "Kohaku", "s": "琥珀", "c": "Sangos brother"}
+       ,{"n": "Naraku", "s": "奈落", "c": "Antagonist"}
+       ,{"n": "Kagura", "s": "神楽", "c": "Narakus reluctant dominon uses wind spells"}
+       ,{"n": "Kanna", "s": "神無", "c": "Narakus dominon uses a mirror"}
+       ,{"n": "Koga", "s": "鋼牙", "c": "Wolf daemon"}
+       ,{"n": "Rin", "s": "りん", "c": "Girl saved by Sesshomaru, and travels with him"}
+       ,{"n": "Kaede", "s": "楓", "c": "Kikyos sister, priestess"}
+       ,{"n": "Kyokotsu", "s": "凶骨", "c": "one of the 7 warriors, leader"}
+       ,{"n": "Jakotsu", "s": "蛇骨", "c": "one of the 7 warriors"}
+       ,{"n": "Mukotsu", "s": "霧骨", "c": "one of the 7 warriors uses poison"}
+       ,{"n": "Renkotsu", "s": "煉骨", "c": "one of the 7 warriors"}
+       ,{"n": "Ginkotsu", "s": "銀骨", "c": "one of the 7 warriors"}
+       ,{"n": "Suikotsu", "s": "睡骨", "c": "one of the 7 warriors"}
+       ,{"n": "Bankotsu", "s": "蛮骨", "c": "one of the 7 warriors"}
+       ,{"n": "Midoriko", "s": "翠子", "c": "Pristess who created/(captured within) the Shikon Jewel"}
+       ,{"n": "Myoga", "s": "冥加", "c": "Flea demon"}
+       ,{"n": "Totosai", "s": "刀々斎", "c": "Yokai blacksmith"}
+    ]}
+  , {"n": "Detective Conan"
+   , "s": "名探偵コナン"
+   , "d": "Con"
+   , "Src": "https://detectiveconan.fandom.com/wiki/Detective_Conan_Wiki"
+   , "color": "#8080f0"
+   , "chr": [
+        {"n": "Shinichi Kudo", "s": "工藤 新", "c": "Former alter ego of Conan"}
+        ,{"n": "Conan Edogawa", "s": "江戸川 コナン", "c": "Younger alter ego of Shinichi"}
+        ,{"n": "Ran Mouri", "s": "毛利 蘭", "c": "Shinichi's girlfriend"}
+        ,{"n": "Kogoro Mouri", "s": "毛利 小五郎", "c": "Detective?"}
+        ,{"n": "Hiroshi Agasa", "s": "阿笠 博士", "c": "Professor"}
+        ,{"n": "Ai Haibara", "s": "灰原 哀", "c": "Escaped from the black organisation"}
+        ,{"n": "Mitsuhiko Tsuburaya", "s": "円谷 光彦", "c": "Detective boy"}
+        ,{"n": "Ayumi Yoshida", "s": "吉田 歩美", "c": "Detective boy"}
+        ,{"n": "Genta Kojima", "s": "小嶋 元太", "c": "Detective boy"}
+        ,{"n": "Juzo Megure", "s": "目暮 十三", "c": "Tokio police"}
+        ,{"n": "Ninzaburo Shiratori", "s": "白鳥 任三郎", "c": "Tokio police"}
+        ,{"n": "Miwako Sato", "s": "佐藤 美和子", "c": "Tokio police"}
+        ,{"n": "Wataru Takagi", "s": "高木 渉", "c": "Tokio police"}
+        ,{"n": "Yumi Miyamoto", "s": "宮本 由美", "c": "Tokio police"}
+        ,{"n": "Heizo Hattori", "s": "服部 平蔵", "c": "Osaka police chief"}
+        ,{"n": "Heiji Hattori", "s": "服部 平次", "c": "Shinichi and Conans co detective and friend"}
+        ,{"n": "Kazuha Toyama", "s": "遠山 和葉", "c": "Heiji Hattoris girlfriend"}
+        ,{"n": "Sonoko Suzuki", "s": "鈴木 園子", "c": "Ran Mouris friend"}
+        ,{"n": "Eri Kisaki", "s": "妃 英理", "c": "Kogoro Mouris wife living separately"}
+    ]}
+  , {"n": "Naruto, Boruto"
+   , "s": "ナルト"
+   , "d": "Nar"
+   , "Src": "https://naruto.fandom.com/wiki/Category:Characters"
+   , "color": "#f0c080"
+   , "chr": [
+        {"n": "Naruto", "f": "Uzumaki, うずまき", "s": "ナルト", "c": "7th Hokage"}
+        ,{"n": "Kakashi", "f": "Hatake, はたけ", "s": "カカシ", "c": "Narutos sensei, 6th Hokage"}
+        ,{"n": "Ino", "f": "Yamanaka", "s": "山中いの", "c": "Sakuras friend"}
+        ,{"n": "Inojin", "f": "Yamanaka", "s": "山中いのじん", "c": "Shikadais teammate"}
+        ,{"n": "Chōchō", "f": "Akimichi, 秋道", "s": "チョウチョウ", "c": "Shikadais teammate"}
+        ,{"n": "Sakura", "f": "Haruno,Uchiha, 春野", "s": "サクラ", "c": "Naruto teammate, when married to Sasuke she takes Uchiha as her second name"}
+        ,{"n": "Sarada", "f": "Uchiha, うちは", "s": "サラダ", "c": "Dauther of Sakura and Sasuke, Team Konohamaru"}
+        ,{"n": "Sasuke", "f": "Uchiha, うちは ", "s": "サスケ", "c": "Naruto teammate, married to Sakura"}
+        ,{"n": "Shikamaru", "f": "Nara, 奈良", "s": "シカマル", "c": "Narutos right hand"}
+        ,{"n": "Shikadai", "f": "Nara, 奈良", "s": "シカダイ", "c": "Son of Shikamaru and Temari"}
+        ,{"n": "Temari ", "f": "Yondaime?,Nara, 奈良", "s": "テマリ", "c": "Married to Shikamaru"}
+        ,{"n": "Tenten", "s": "テンテン", "c": ""}
+        ,{"n": "Kiba", "f": "Inuzuka", "s": "犬塚キバ", "c": "Companion: Akamaru"}
+        ,{"n": "Hinata ", "f": "Hyūga,Uzumaki うずまき", "s": "ヒナタ", "c": "Narutos wife, former Hyūga clan"}
+        ,{"n": "Jiraiya", "s": "自来也", "c": "Narutos part time choosen sensei"}
+        ,{"n": "Konohamaru", "f": "Sarutobi", "s": "猿飛木ノ葉丸", "c": "Team leader"}
+        ,{"n": "Mitsuki", "s": "ミツキ", "c": "Team Konohamaru"}
+        ,{"n": "Boruto", "f": "Uzumaki うずまき", "s": "ボルト", "c": "Team Konohamaru"}
+        ,{"n": "Himawari", "f": "Uzumaki うずまき", "s": "ヒマワリ", "c": "Borutos sister"}
+        ,{"n": "Neji", "f": "Hyūga 日向", "s": "ネジ", "c": ""}
+        ,{"n": "Sumire", "f": "Kakei 筧", "s": "スミレ", "c": "Team 15"}
+        ,{"n": "Rock Lee", "s": "ロック・リー", "c": "Taijutsui user"}
+        ,{"n": "Metal Lee", "c": "Taijutsui user"}
+        ,{"n": "Iwabee", "f": "Yuino 結乃", "s": "イワベエ", "c": ""}
+        ,{"n": "Wasabi", "f": " Izuno 伊豆野", "s": "ワサビ", "c": "Team 15"}
+        ,{"n": "Namida", "f": "Suzumeno", "s": "雀乃なみだ", "c": "Team 15"}
+        ,{"n": "Denki", "f": "Kaminarimon 雷門デ", "s": "ンキ", "c": "Heir to the Kaminarimon Company"}
+        ,{"n": "Shino", "f": "Aburame 油女", "s": "シノ", "c": "Borutos teacher, (bug guy)"}
+        ,{"n": "Gaara", "f": "Yondaime?", "s": "我愛羅", "c": "Sunagakures 5. kage"}
+
+
+    ]}
+, {"n": "Avatar"
+   , "d": "Ava"
+   , "Src": "https://avatar.fandom.com/wiki/Category:Characters"
+   , "color": "#f0c040"
+   , "chr": [
+        {"n": "Aang", "s": "安昂", "c": "The last airbender"}
+        ,{"n": "Katara", "s": "卡塔拉", "c": "Southern watertribe, waterbender"}
+        ,{"n": "Sokka", "s": "索卡", "c": "Southern watertribe warrior, Kataras brother"}
+        ,{"n": "Zuko", "s": "祖寇", "c": "Banished Fire nation prince"}
+        ,{"n": "Iroh", "s": "艾洛", "c": "Uncle of Zuko"}
+        ,{"n": "Toph", "s": "北方拓芙", "c": "Beifong, Earthbender teaches Aang"}
+        ,{"n": "Suki", "s": "蘇琪", "c": "Leader of the Kyoshi warriors"}
+        ,{"n": "Azula", "s": "阿祖拉", "c": "Fire nation princess"}
+        ,{"n": "Momo", "s": "模模", "c": "Aangs flying lemure companion"}
+        ,{"n": "Appa", "s": "阿柏", "c": "Aangs flying bison"}
+        ,{"n": "Yue", "s": "月", "c": "Northern watertribe princess"}
+        ,{"n": "Zhao", "s": "趙", "c": "Firenation admiral also pronounced Chao"}
+    ]}
+, {"n": "Moribito"
+   , "c": "Guardian of the Spirit"
+   , "s": "精霊の守り人"
+   , "d": "Mor"
+   , "Src": "https://moribito.fandom.com/wiki/Moribito:_Guardian_of_the_Spirit"
+   , "color": "#c0c080"
+   , "chr": [
+        {"n": "Balsa", "c": "Spear-wielder, bodyguard"}
+        ,{"n": "Chagum", "c": "Second prince of New Yogo"}
+        ,{"n": "Toya", "c": "Young boy who works as an errand runner and a friend of Balsa"}
+        ,{"n": "Saya", "s": "サヤ", "c": "Young girl which accomapains Toya"}
+        ,{"n": "Tanda", "c": " Yaku herbalist, friend of Balsa"}
+        ,{"n": "Torogai", "c": "Old Yaku woman and shaman"}
+        ,{"n": "Shuga", "c": "Youngest Star Reader at the court of the emporer"}
+    ]}
+, {"n": "Lycoris Recoil"
+   , "c": "Rikorisu Rikoiru"
+   , "s": "リコリス・リコイル"
+   , "d": "Lyc"
+   , "Src": "https://en.wikipedia.org/wiki/Lycoris_Recoil"
+   , "color": "#80c040"
+   , "chr": [
+        {"n": "Chisato", "s": "錦木 千束", "c": "A highly skilled and happy-go-lucky Lycoris agent"}
+        ,{"n": "Takina", "s": "井ノ上 たきな", "c": "Tries to act sensible"}
+        ,{"n": "Kurumi", "s": "クルミ", "c": "A skilled hacker who goes under the code name 'Walnut'."}
+        ,{"n": "Mika", "s": "ミカ", "c": "An Afro-Japanese man who is the manager of LycoReco"}
+        ,{"n": "Mizuki Nakahara", "s": "中原 ミズキ", "c": "The driver"}
+        ,{"n": "Kusunoki", "s": "楠木", "c": "Head of DA"}
+        ,{"n": "Majima", "s": "真島", "c": "Villan"}
+        ,{"n": "Yoshimatsu", "s": "吉松 シンジ", "c": "Villan"}
+    ]}
+]}
