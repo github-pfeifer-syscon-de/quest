@@ -265,7 +265,7 @@ function ready(event) {
          dsts = resp.dsts;
     }
     else {
-        alert("Data cound not be loaded " + req.statusText + " " + req.status + ".");
+        alert("Data was not loaded " + req.statusText + " " + req.status + ".");
         return true;
     }
 

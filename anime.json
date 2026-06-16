@@ -117,20 +117,23 @@
         ,{"n": "Yue", "s": "月", "c": "Northern watertribe princess"}
         ,{"n": "Zhao", "s": "趙", "c": "Firenation admiral also pronounced Chao"}
     ]}
-, {"n": "Moribito"
-   , "c": "Guardian of the Spirit"
-   , "s": "精霊の守り人"
-   , "d": "Mor"
-   , "Src": "https://moribito.fandom.com/wiki/Moribito:_Guardian_of_the_Spirit"
+, {"n": "One Piece"
+   , "c": "The straw hat pirates"
+   , "s": "麦わら海賊団"
+   , "d": "One"
+   , "Src": "https://en.wikipedia.org/wiki/One_Piece"
    , "color": "#c0c080"
    , "chr": [
-        {"n": "Balsa", "c": "Spear-wielder, bodyguard"}
-        ,{"n": "Chagum", "c": "Second prince of New Yogo"}
-        ,{"n": "Toya", "c": "Young boy who works as an errand runner and a friend of Balsa"}
-        ,{"n": "Saya", "s": "サヤ", "c": "Young girl which accomapains Toya"}
-        ,{"n": "Tanda", "c": " Yaku herbalist, friend of Balsa"}
-        ,{"n": "Torogai", "c": "Old Yaku woman and shaman"}
-        ,{"n": "Shuga", "c": "Youngest Star Reader at the court of the emporer"}
+        {"n": "Luffy", "s": "モンキー・D・ルフィ", "c": "Used Gum-Gum Fruit"}
+        ,{"n": "Zorro", "s": "ロロノア・ゾロ", "c": "Swordsman"}
+        ,{"n": "Nami", "s": "ナミ", "c": "Cat Burglar"}
+        ,{"n": "Usopp", "s": "ウソップ", "c": "The longnose"}
+        ,{"n": "Sanji", "s": "サンジ", "c": " The cool"}
+        ,{"n": "Chopper", "s": "トニートニー・チョッパー", "c": "The doctor and reindeer"}
+        ,{"n": "Robin", "s": "ニコ・ロビン", "c": "Archaeologist"}
+        ,{"n": "Franky", "s": "フランキー", "c": "Cyborg"}
+        ,{"n": "Brook", "s": "ブルック", "c": "The skeleton"}
+        ,{"n": "Jimbei", "s": "ジンベエ", "c": "Fish-Men"}
     ]}
 , {"n": "Lycoris Recoil"
    , "c": "Rikorisu Rikoiru"
